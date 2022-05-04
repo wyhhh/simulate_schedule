@@ -13,6 +13,6 @@ And then, you start this project from another terminal:
 
 `cargo r --release -- localhost:9999`
 
-You can also change the value of `const RANDOM_PROCESSES: usize = 10;` in `main.rs` for another working threads.
+You can also change the value of `const RANDOM_PROCESSES: usize = 10;` in `main.rs` for another number working threads.
 
 ![alt text](https://github.com/wyhhh/simulate_schedule/blob/master/show.png)
